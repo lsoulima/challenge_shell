@@ -1,3 +1,3 @@
 # shell_training
 
-Vos scripts sera teste dans notre environnement
+Votre code sera testé dans notre environnement
