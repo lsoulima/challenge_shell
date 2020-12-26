@@ -11,4 +11,4 @@ vamalc_, tsafbrk_, toorsmvc_, toor, tocevod_, tessaelibom_, svc_.
 $>
 ```
 
-[NB] Respectez strictement l’ordre de l’énoncé.
+> :warning: Respectez strictement l’ordre de l’énoncé.
