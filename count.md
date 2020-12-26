@@ -3,6 +3,9 @@ répertoires dans le répertoire courant et tous ses sous-répertoires, y compri
 du répertoire de départ.
 • Exemple de sortie :
 
+```console
 $>./count_files.sh | cat -e
 42$
 $>
+
+```
