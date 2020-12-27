@@ -1,5 +1,6 @@
-- Créer le fichier b tel que :
+Créer le fichier **b** tel que :
 
+```ps
 %>cat -e a
 
 STARWARS$
@@ -14,5 +15,6 @@ $
 Pursued by the Empire's sinister agents, Princess Leia races home aboard her starship, custodian of
 the stolen plans that can save her people and restore freedom to the galaxy...$
 $
-
+```
+```ps
 %>diff a b > sw.diff
