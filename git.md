@@ -1,6 +1,7 @@
 • Créez un script shell qui renvoie les id des 5 derniers commit de votre dépot git.
-exemple:
 
+***Exemple:***
+```ps
 %> bash git_commit.sh | cat -e
 baa23b54f0adb7bf42623d6d0a6ed4587e11412a$
 2f52d74b1387fa80eea844969e8dc5483b531ac1$
