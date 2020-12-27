@@ -15,6 +15,7 @@ lrwxr-xr-x 1 XX XX 5  Jun 1 22:20 test6 -> test0
 
 > :warning: Pour les heures, il sera toléré que ce soit l’année qui s’affiche si la date de l’exercice
 (1 juin) est dépassée de six mois ou plus.
+
 > :warning: Les XX ne seront pas pris en compte.
 
  Une fois l’exercice résolu, vous exécuterez la commande tar -cf exo2.tar * pour
