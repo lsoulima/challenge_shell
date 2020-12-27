@@ -1,4 +1,4 @@
-• Créez un script shell qui renvoie les id des 5 derniers commit de votre dépot git.
+ Créez un script shell qui renvoie les id des 5 derniers commit de votre dépot git.
 
 ***Exemple:***
 ```ps
